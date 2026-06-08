@@ -1,3 +1,5 @@
+//this is insertion sort from data structures
+//sorting techiniques
 public void insertionSort(int[] arr) {
     int n = arr.length;
     for (int i = 1; i < n; i++) {
