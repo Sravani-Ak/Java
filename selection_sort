@@ -1,4 +1,3 @@
-//this is selection sort from
 //data structures sorting techniques
 public class SelectionSort {
     public static void selectionSort(int[] arr) {
